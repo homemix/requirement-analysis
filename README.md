@@ -152,5 +152,26 @@ The diagram below represents the main actors and use cases for the **Booking Man
 
 ---
 
+## Acceptance Criteria
+
+### **What is Acceptance Criteria?**
+**Acceptance Criteria** are specific conditions that a software product or feature must meet to be accepted by the user, customer, or other stakeholders.  
+They define what “done” means for a user story or requirement and help ensure that the final product behaves as expected.
+
+### **Importance of Acceptance Criteria**
+- ✅ **Ensures clarity:** Clearly defines what is expected from each feature or functionality.
+- ✅ **Guides development:** Helps developers understand the boundaries and expected behavior of the system.
+- ✅ **Improves testing:** Acts as a reference point for creating test cases to validate functionality.
+- ✅ **Supports collaboration:** Aligns developers, testers, and stakeholders on the same understanding of requirements.
+- ✅ **Prevents scope creep:** Reduces misunderstandings and unplanned feature changes.
+
+---
+
+
+
+### **Summary**
+Acceptance Criteria help transform abstract requirements into measurable, testable conditions.  
+In the **Booking Management System**, clear acceptance criteria ensure that each user interaction — such as the checkout process — delivers a predictable, reliable, and user-friendly experience.
+
 
 
