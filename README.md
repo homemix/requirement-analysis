@@ -82,3 +82,39 @@ The Requirement Analysis phase involves several important activities that help e
 ---
 
 These activities together ensure that the final software product aligns with user expectations, is technically feasible, and supports business objectives effectively.
+
+## Types of Requirements
+
+In software development, requirements are generally classified into **Functional** and **Non-functional** requirements. Both are essential for ensuring that the system performs as intended and meets user expectations.
+
+---
+
+### **1. Functional Requirements**
+
+Functional requirements define **what the system should do** — the specific behavior, features, and interactions of the system.  
+They describe how the system responds to user inputs, processes data, and delivers expected outputs.
+
+**Examples (from the Booking Management Project):**
+- The system should allow users to create, update, and cancel bookings.
+- The admin should be able to view all active and completed bookings.
+- The system should send email or SMS notifications when a booking is confirmed or canceled.
+- The platform should allow users to make payments securely using integrated payment gateways (e.g., M-Pesa, PayPal).
+- The system should generate a report of daily and monthly bookings.
+
+---
+
+### **2. Non-functional Requirements**
+
+Non-functional requirements define **how the system should perform** rather than what it does.  
+They describe the quality attributes, performance, usability, and reliability of the system.
+
+**Examples:**
+- The system should handle up to **500 concurrent users** without performance degradation.
+- The response time for loading booking details should be **less than 3 seconds**.
+- The platform should be available **99.9% of the time** to ensure high reliability.
+- All user data should be stored securely with **encryption and regular backups**.
+- The user interface should be **mobile-responsive and easy to navigate**.
+
+---
+
+While **functional requirements** define the system’s core capabilities, **non-functional requirements** ensure the system’s efficiency, reliability, and user satisfaction.
