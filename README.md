@@ -49,3 +49,36 @@ When requirements are specific and testable, developers can create systems that 
 ---
 
 **Requirement Analysis** acts as the foundation of a successful software project. A clear and detailed understanding of what needs to be built ensures that the final product is both functional and valuable to its users.
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several important activities that help ensure the system meets user and business needs effectively. Below are the five key activities involved:
+
+- ### **1. Requirement Gathering**
+    - This is the initial step where information about the project’s goals, features, and constraints is collected.
+    - Stakeholders, end-users, and clients are interviewed to understand their expectations and needs.
+    - Techniques such as questionnaires, surveys, and document analysis are often used.
+
+- ### **2. Requirement Elicitation**
+    - Focuses on extracting detailed information from stakeholders through discussions, workshops, and brainstorming sessions.
+    - Helps uncover hidden needs or assumptions that may not have been expressed during gathering.
+    - Encourages collaboration and communication between clients and the development team.
+
+- ### **3. Requirement Documentation**
+    - Involves recording and organizing all gathered and elicited requirements in a structured format.
+    - Common documents include the Software Requirement Specification (SRS).
+    - Documentation ensures that all stakeholders have a clear, consistent understanding of the requirements.
+
+- ### **4. Requirement Analysis and Modeling**
+    - At this stage, requirements are analyzed for feasibility, clarity, and completeness.
+    - Modeling tools such as data flow diagrams (DFD), use case diagrams, or entity-relationship diagrams (ERD) may be used.
+    - The goal is to represent system functionality and interactions visually for better understanding.
+
+- ### **5. Requirement Validation**
+    - Ensures that all documented requirements accurately reflect user needs and are achievable within project constraints.
+    - Activities include reviews, walkthroughs, and prototyping.
+    - Helps identify inconsistencies, ambiguities, or missing requirements early in the process.
+
+---
+
+These activities together ensure that the final software product aligns with user expectations, is technically feasible, and supports business objectives effectively.
