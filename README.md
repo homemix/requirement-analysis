@@ -118,3 +118,39 @@ They describe the quality attributes, performance, usability, and reliability of
 ---
 
 While **functional requirements** define the system’s core capabilities, **non-functional requirements** ensure the system’s efficiency, reliability, and user satisfaction.
+
+## Use Case Diagrams
+
+### **What is a Use Case Diagram?**
+A **Use Case Diagram** is a visual representation of the interactions between users (**actors**) and the system.  
+It helps to capture the **functional requirements** by illustrating what the system does (use cases) and who interacts with it.
+
+### **Benefits of Use Case Diagrams**
+- **Simplifies understanding:** Provides a clear and visual way to represent system behavior.
+- **Improves communication:** Bridges the gap between technical teams and non-technical stakeholders.
+- **Identifies system boundaries:** Clearly defines what is inside or outside the scope of the system.
+- **Assists in validation:** Helps confirm that all user interactions and system functions are captured correctly.
+
+---
+
+### **Use Case Diagram for Booking Management System**
+
+The diagram below represents the main actors and use cases for the **Booking Management System**.
+
+**Actors:**
+- **Customer:** Makes, modifies, and cancels bookings.
+- **Admin:** Manages users, bookings, and system reports.
+- **Payment Gateway:** Processes payments for confirmed bookings.
+
+**Use Cases:**
+- Create Booking
+- Update Booking
+- Cancel Booking
+- Make Payment
+- Generate Report
+- Manage Users
+
+---
+
+
+
